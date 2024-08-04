@@ -15,7 +15,7 @@ This tool is designed to crack hashed passwords using brute-force techniques. It
  - **Clone the repository:**
    
    ```
-   git clone https://github.com/yourusername/hash-cracker.git
+   git clone https://github.com/JayGaba/hash-cracker.git
    cd hash-cracker
     ```
 
